@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "101168900277",
+    "firebase_url": "https://lab-5-fe1fb.firebaseio.com",
+    "project_id": "lab-5-fe1fb",
+    "storage_bucket": "lab-5-fe1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101168900277:android:cd127f9cd1d8a801",
+        "android_client_info": {
+          "package_name": "com.josh2.sportsprofilemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101168900277-ubh1fpdglhca8ev2ohbrqcn47u50ke9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josh2.sportsprofilemanager",
+            "certificate_hash": "fd8caedc0a33edb51064fcb3b5a9f16b133ec96a"
+          }
+        },
+        {
+          "client_id": "101168900277-j996c0lo5chhqrpbmmqfblgq7o3tdt8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9RgJ9bFXls_GI8HubDbS2GrzfKGwYxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101168900277-j996c0lo5chhqrpbmmqfblgq7o3tdt8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
